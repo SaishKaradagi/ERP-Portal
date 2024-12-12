@@ -1,8 +1,8 @@
 # ERP Portal for SGBIT 🎓
 
 ## Demo 🎥
-[![Watch the Demo](./assets/Screenshot.png)](./assets/demo.mp4)  
-(*Click the image to view the demo video.*)
+[![Watch the Demo](./assets/Screenshot1.png)](./assets/demo.mp4)  
+
 
 ---
 
@@ -69,17 +69,17 @@ The **ERP Portal** is a comprehensive data management system tailored for academ
 2. **Install Dependencies:**
    ```bash
    npm install
-3. ### Setup Environment Variables
-To run the ERP Portal, create a `.env` file in the server-side root directory. This file will store sensitive configuration details needed for the application to interact with its database securely.
+3. **Setup Environment Variables:**
+  - To run the ERP Portal, create a `.env` file in the server-side root directory. This file will store sensitive configuration details needed for the application to            interact with its database securely.
 
-#### Example `.env` File Content:
+**Example `.env` File Content:**
 ```plaintext
 DATABASE_URI=<your_mongodb_connection_string>
 ```
-4. ### Run the Application:
+4. **Run the Application:**
    ```bash
    npm start
-5. ### Access the Application:
+5. **Access the Application:**
   - Open your browser and navigate to http://localhost:5000.
 
 ### Purpose 🏆
