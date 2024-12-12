@@ -1,7 +1,7 @@
 # ERP Portal for SGBIT 🎓
 
 ## Demo 🎥
-[![Watch the Demo](./assets/main_portal_screenshot.png)](./assets/demo.mp4)  
+[![Watch the Demo](./assets/Screenshot.png)](./assets/demo.mp4)  
 (*Click the image to view the demo video.*)
 
 ---
@@ -43,7 +43,7 @@ The **ERP Portal** is a comprehensive data management system tailored for academ
 
 ## Screenshots 📸
 #### **Main Portal**
-![Main Portal Screenshot](./assets/Screenshot (1).png)
+![Main Portal Screenshot](./assets/Screenshot.png)
 
 #### **Student Dashboard**
 ![Student Dashboard Screenshot](./assets/ScreenshotDashStu.png)
