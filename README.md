@@ -18,7 +18,7 @@ The **ERP Portal** is a comprehensive data management system tailored for academ
 - New Features:
   - **Export internal marks to PDF format**
   - **Advanced student search functionality**
-  - **Bulk edit capabilities for attendance and marks**
+  - **Bulk edit capabilities for marks**
 
 ### 2. HOD Role:
 
@@ -26,9 +26,6 @@ The **ERP Portal** is a comprehensive data management system tailored for academ
 - Additional features:
   - Approve new Teachers
   - Add new Papers (Subjects)
-  - **Generate and download consolidated internal marks reports**
-  - **Advanced student search with multiple filters**
-  - **Bulk edit options for student data management**
 
 ### 3. Student Role:
 
@@ -36,6 +33,7 @@ The **ERP Portal** is a comprehensive data management system tailored for academ
   - **Notes**
   - **Attendance**
   - **Internal Marks**
+  - **Time Schedules**
 - Enroll or withdraw from Papers (Subjects)
 
 ## Technology Stack 🛠️
@@ -102,21 +100,20 @@ The **ERP Portal** is a comprehensive data management system tailored for academ
    ```
 
 5. **Access the Application:**
-   - Open your browser and navigate to http://localhost:5000
+   - Open your browser and navigate to http://localhost:8000
 
 ## Key Features Added 🆕
 
 - **PDF Export System:**
   - Generate and download internal marks reports
-  - Customizable PDF templates for different purposes
-  - Batch export functionality
+    
 - **Enhanced Search:**
   - Advanced student search with multiple parameters
   - Real-time search results
   - Filter-based view options
 - **Bulk Operations:**
   - Mass update capabilities for student records
-  - Batch processing of attendance and marks
+  - Batch processing of marks
   - Efficient data management tools
 
 ## Purpose 🏆
