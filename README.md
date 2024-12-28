@@ -1,6 +1,7 @@
 # ERP Portal for SGBIT 🎓
 
-[![Watch the Demo](./assets/Screenshot1.png)](./assets/demo.mp4)
+<img src="./assets/demo.gif" alt="Demo GIF" width="600">
+
 
 ## Overview 📋
 
